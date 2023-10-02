@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj1998&hide=contribs&count_private=true,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khj1998&count_private=true)
+
